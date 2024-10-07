@@ -21,21 +21,22 @@ body{
 }
 
 .qr{
-    margin:60px 0;
+    margin:90px 0;
 }
 
 .card img {
     border-radius: 5%;
 }
 
-.color-texto  h5 {
+.color-texto .p1 {
     color: var(--Slate900);
-    font-weight:700;
-
 }
+
 .color-texto p {
     color: var(--Slate500);
+    
 }
+
 .attribution {
     font-size: 11px; 
     text-align: center; 
